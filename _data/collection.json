@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Teaching from Digital Archives Materials" ] },
+    "summary": { "en": [ "Necessary materials for lesson created by Kylie Warkentin as part of the 2021 Teaching from Digital Archives training (presented by Hemispheres) " ] },
+    "items": [
+    ]
+}
