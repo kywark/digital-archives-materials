@@ -23,14 +23,6 @@
         "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3586.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/notes.json",
-            "label": "Notes"
-          }
-        ],
         "items": [
           {
             "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/paintings",
