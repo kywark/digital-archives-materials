@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Um, [inaudble] and as well as the Edible Woman, I seem to get this idea of an emergence from greyness, or darkness and I was wondering if it's through this emergence from greyness that you have any reference to Blake in his emergence from chaos.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2334"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'll be very flattered, if I did. I'm afraid I suffer by the comparison. I think that you're right in spotting it, I think I would say that it's more like this, that if you want to think in terms of colour, that you start with a grey, and then you go down. Down into, well, it depends on the poem or the book or whatever of what's happening in your life. And, but you have to go down before you come up again otherwise you stay just in the grey part. If you want a real pattern for this, it's Dante's Inferno, where the man starts in a wandering wood, you know he starts in a kind of state of being lost, and then he goes down into hell. The further down he goes the more tortured souls he sees, but when he gets right to the bottom he finds that he's going up again. And then he comes out the other side.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2357"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah, but, [inaudible] other side-ness in the Edible Woman you come up through colours, a very [inaudible] of colours and I was wondering if this is the complete emergence of man?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2419"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Not complete- I would say no, no beginning.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2429"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Inaudible] complete- into his universal aspect, but into an emergence of man. Into the colours of life.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2432"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Your choice of the word 'man' is interesting. Since the heroine is a woman. [Laughter and applause.] Um, I think you have the pattern right. I wouldn't like to attach any sort of universal meaning to it.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2439"
+        }
+      }
+    }
+  ]
+}
