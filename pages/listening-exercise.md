@@ -11,4 +11,4 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 "Margaret Atwood reads from her latest book, You are Happy (Oxford University Press, 1974) and poems later published in Selected poems, 1965-1975 (Oxford University Press, 1976)."
 
-From [SpokenWeb Montreal](https://montreal.spokenweb.ca).
+Audio and trasncription from [SpokenWeb Montreal](https://montreal.spokenweb.ca).
