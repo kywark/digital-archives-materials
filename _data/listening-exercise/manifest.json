@@ -27,12 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/transcription.json",
-            "label": "Transcription"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://kywark.github.io/digital-archives-materials/listening-exercise/canvas-1/canvas/notes.json",
             "label": "Notes"
           }
