@@ -11,4 +11,4 @@ This recording is a part of a collection made by Herbert Halpert during a 1939 W
 
 Audio transcribed by Tanya Clement. Project created by Tanya Clement (view full project [here](https://tanyaclement.github.io/znh_jacksonville_1939/)).
 
-Listen to the recording [here](https://tanyaclement.github.io/znh_jacksonville_1939/pages/t86-244.html#?c=&m=&s=&cv=) from 17:21 (Annotation: "3138 B1 and 2) to 28:49 (Annotation: "ZNH sings 'Mama Don't Want No Peas No Rice'").
+Listen to the recording [here](https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/#?c=&m=&s=&cv=) from 17:21 (Annotation: "3138 B1 and 2) to 28:49 (Annotation: "ZNH sings 'Mama Don't Want No Peas No Rice'").
