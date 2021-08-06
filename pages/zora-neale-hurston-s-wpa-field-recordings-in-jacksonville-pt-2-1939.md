@@ -11,4 +11,4 @@ This recording is a part of a collection made by Herbert Halpert during a 1939 W
 
 Audio transcribed by Tanya Clement. Project created by Tanya Clement (view full project [here](https://tanyaclement.github.io/znh_jacksonville_1939/)).
 
-Listen to the recording [here](https://tanyaclement.github.io/znh_jacksonville_1939/pages/t86-243.html#?c=&m=&s=&cv=) from 45:30 (Annotation: "ZNH: My name is Zora Neal[e] Hurston. I...") to 53:48 (Annotation: "3136 A").
+Listen to the recording [here](https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/#?c=&m=&s=&cv=) from 45:30 (Annotation: "ZNH: My name is Zora Neal[e] Hurston. I...") to 53:48 (Annotation: "3136 A").
